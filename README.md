@@ -1,2 +1,2 @@
 # Corona-virus
-Covid cases predictor
+Covid cases predictor at nation,state and city level
